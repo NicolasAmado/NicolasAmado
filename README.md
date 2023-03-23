@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Nico.
-A physics student at [FAMAF](https://www.famaf.unc.edu.ar/), in Córdoba, Argentina.
+A physics PHD student at [FAMAF](https://www.famaf.unc.edu.ar/), in Córdoba, Argentina.
 Currently working my thesis in the topic of [sociophysics](https://en.wikipedia.org/wiki/Social_physics), more specifically in Agent-based social simulation
 
 ### My interests include:
