@@ -2,6 +2,7 @@
 A physics PHD student at [FAMAF](https://www.famaf.unc.edu.ar/), in Córdoba, Argentina.
 Currently working my thesis in the topic of [sociophysics](https://en.wikipedia.org/wiki/Social_physics), more specifically in Agent-based social simulation.
 Currently working on a data science project with the goal of analyzing and improving public transport in Córdoba.
+Currently working on a data science project with the goal of analyzing economical transaction networks.
 
 ### My interests include:
 - Computational Physics, Physics Simulations
